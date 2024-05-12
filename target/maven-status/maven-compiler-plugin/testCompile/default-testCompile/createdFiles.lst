@@ -1,0 +1,3 @@
+com\cognos\pages\LoginPage.class
+com\cognos\stepdefinitions\LoginPageSteps.class
+com\cognos\CucumberTestSuite.class
